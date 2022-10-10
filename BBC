@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <header>
+            <span>
+                 BBC
+            </span>
+            <span>
+                Sign in
+            </span>
+            <nav>
+                <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">News</a></li>
+                        <li><a href="#">Sport</a></li>
+                        <li><a href="#">Reel</a></li>
+                        <li><a href="#">Worklife</a></li>
+                        <li><a href="#">Travel</a></li>
+                        <li><a href="#">Future</a></li>
+                        <li><a href="#">Culture</a></li>
+                        <li><a href="#">More</a></li>
+                </ul>        
+            </nav>
+            <form>
+                <label for="search">Search</label>
+                <input type="search" name="Search">
+            </form>
+        </header>
+
+        <h2> Welcome to BBC.com </h2>
+        <h2> Thursday, 13 August </h2>
+        <section>
+            <img src="Israel and UAE.jpg" >
+            <h1> Israel and UAE strike historic peace deal</h1>
+            <p> Israel and the UAE agree to normalise relations, marking the third Israel-Arab peace deal.</p>
+            <span>MIDDLE EAST</span>
+        </section>
+        <section>
+            <section>
+                <img src="Canada.jpg" >
+                <h4> Americans, go home: Tension at Canada-US border </h4>
+                <span> CANADA </span>
+            </section>
+            <section>
+                <img src="Worklife.jpg" >
+                <h4> The online 'productivity gyms' </h4>
+                <span> WORKLIFE </span>
+            </section>
+            <section>
+                <img src="Covid.jpg" >
+                <h4> How will the world vaccinate seven billion people? </h4>
+                <span> HEALTH </span>
+            </section>
+            <section>
+                <img src="Folk Singer.jpg" >
+                <h4> The folk singer murdered for his music </h4>
+                <span> CULTURE </span>
+            </section>
+        </section>
+        <h2> News </h2>
+        <section>
+            <section>
+                <img src="Biden and Harris.jpg" >
+                <h3> Biden and Harris say Trump has left US 'in tatters' </h3>
+                <p> Joe Biden and running mate Kamala Harris call President Donald Trump a "whining" incompetent leader. </p>
+                <span> US ELECTION 2020 </span>
+            </section>
+            <section>
+                <img src="Belarus Chains.jpg" >
+                <h3> Women form 'solidarity chains' in Belarus protests </h3>
+                <p> Women take to the streets of Minsk dressed in white as they demand an end to police brutality. </p>
+                <span> EUROPE </span>
+            </section>
+            <section>
+                <img src="Trump.jpg" >
+                <h3> Trump says low-pressure shower heads won't wash </h3>
+                <p> The US calls for rules to be eased after Donald Trump complained of issues washing his hair. </p>
+                <span> US & CANADA </span>
+            </section>
+        </section>
+    </body>
+</html>
